@@ -1,2 +1,2 @@
-# jlind23.github.io
+# Management Change
 Presentation file to Talk about management changes
