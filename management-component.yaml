@@ -1,0 +1,13 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: management-jlind23
+  description: Management Talk
+  tags:
+    - java
+    - talk
+    - management
+spec:
+  type: service
+  lifecycle: production
+  owner: julien.lind@decathlon.com
